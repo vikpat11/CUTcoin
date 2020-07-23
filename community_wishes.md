@@ -3,7 +3,7 @@
 - Historic network difficulty chart
 - More memes
 - GitHub bot that shows GitHub activity in the discord
-
+- Android and iOS wallet with staking functionalities
 
 
 ## What can the CUTcommunity do?
